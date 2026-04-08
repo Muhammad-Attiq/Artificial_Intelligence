@@ -1,1 +1,1 @@
-This repository contains my Python practice work and learning materials, focused on building a foundation for Artificial Intelligence concepts. It will be updated regularly as I learn and add more content.
+This repository contains my Python practice work and learning materials, focused on building a foundation for Artificial Intelligence concepts. 
